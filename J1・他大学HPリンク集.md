@@ -1,0 +1,54 @@
+# 筑波大学蹴球部ホームページ資料
+
+## J1クラブリンク集
+- [FC東京](https://www.fctokyo.co.jp/)
+- [名古屋グランパス](http://nagoya-grampus.jp/)
+  - キックオフまでの時間がカウントダウンされていてワクワクする。
+- [大分トリニータ](https://www.oita-trinita.co.jp/)
+- [川崎フロンターレ](https://www.frontale.co.jp/)
+- [鹿島アントラーズ](http://www.so-net.ne.jp/antlers/)
+- [横浜・Fマリノス](https://www.f-marinos.com/)
+  - トップ画面の躍動感がピカイチ。
+  - 次の試合の対戦相手・日程がページを開いて0秒で分かる。
+- [北海道コンサドーレ札幌](https://www.consadole-sapporo.jp/)
+- [サンフレッチェ広島](http://www.sanfrecce.co.jp/)
+- [湘南ベルマーレ](http://www.bellmare.co.jp/)
+- [浦和レッズ](http://www.urawa-reds.co.jp/)
+- [セレッソ大阪](https://www.cerezo.jp/)
+  - 次のビッグイベントはバナーで表示。バナー上からチケットを購入可能。
+- [ジュビロ磐田](https://www.jubilo-iwata.co.jp/)
+- [松本山雅FC](https://www.yamaga-fc.com/)
+- [ガンバ大阪](http://www.gamba-osaka.net/)
+  - 直近3試合分の試合予定を大きく掲出。
+- [ヴィッセル神戸](https://www.vissel-kobe.co.jp/)
+- [ベガルタ仙台](https://www.vegalta.co.jp/)
+  - 次の試合の日付が最も大きく掲出されているのはベガルタ仙台。
+- [サガン鳥栖](https://www.sagan-tosu.net/)
+- [清水エスパルス](https://www.s-pulse.co.jp/)
+
+## 他大学サッカー部リンク集
+- [法政大学](https://hoseifc.com/)
+  - とてもきれい。おそらく企業の手が入っていると思われる。
+  - ニュースの更新も豆ですごい。
+- [駒澤大学](http://www.joy.hi-ho.ne.jp/~tsum/)
+  - 部&監督の公認の元、個人が運営しているらしい。
+- [大阪体育大学](https://www.ouhs.jp/club_life/club/soccer_m/)
+  - 大学のホームページに組み込まれる形で作られている。制作主も大学サイド。
+  - カレンダー等が更新されておらず、実質死んでいる。
+- [順天堂大学](http://juntendo-football.com/)
+  - 最新の試合結果はもちろん、リーグ戦の順位表を掲出するなど、試合日程・結果を伝えることに重点を置いている。
+- [福岡大学](https://fukuoka-u-football.com/)
+  - ヘッダーにごついエフェクトが入っている。
+- [関西学院大学](http://kgusoccer.com/)
+  - ページの雰囲気はやや古臭いものの、最新の試合結果と次の試合日程は掲出され、要点は抑えていると感じる。
+- [早稲田大学](http://www.waseda-afc.jp/)
+  - 最新の試合結果、次の試合日程、リーグ順位を掲出。2000年代のホームページのような雰囲気。
+- [明治大学](http://meidaisoccer.jp/)
+  - ヘッダー画像として試合結果を掲出している。J1の多くのチームと同じ形式。
+- [静岡産業大学](https://www.ssu.ac.jp/club/football/)
+- [桃山学院大学](https://st-andrew-fc.com/)
+- [仙台大学](https://www.sendaidaigaku.jp/club.html?post=337)
+- [東洋大学](http://toyo-fc.jp/man/)
+- [関西大学](http://kufc.p2.weblife.me/)
+- [新潟医療福祉大学](https://www.footballnavi.jp/nuhw/)
+- [北海道教育大学岩見沢校](http://www2.hokkyodai.ac.jp/iwa/user/?uid=iwa-soccer)
